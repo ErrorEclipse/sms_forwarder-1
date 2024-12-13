@@ -1,30 +1,5 @@
 <p align="center">
-<a href="#"><img title="MR_GT" src="https://img.shields.io/badge/Auther-MR.GT-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-<br>
-<a href="#"><img title="Tool_sms_forwarder" src="https://img.shields.io/badge/Tool-sms_forwarder-green.svg"></a>
-<a href="#"><img title="Version_1.1.6" src="https://img.shields.io/badge/Version-1.1.6-green.svg"></a>
-</p>
-
-<h2 align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/GreyTechno/Binaries/main/Images/sms_forwarder/sms_forwarder_logo.png" alt="sms_forwarder"></a>
-  SMS Forwarder
-</h2>
-
-
-
-
-<p align="center">
-<a href="https://www.python.org/"><img title="Made_In_Python" src="https://img.shields.io/badge/Made%20In-Python-1f425f.svg?v=103"></a>
-<a href="#"><img title="Followers" src="https://img.shields.io/github/followers/GreyTechno?color=blue"></a>
-<a href="#"><img title="Stars" src="https://img.shields.io/github/stars/GreyTechno/sms_forwarder?color=red"></a>
-<a href="#"><img title="Forks" src="https://img.shields.io/github/forks/GreyTechno/sms_forwarder?color=red"></a>
-<a href="#"><img title="Watchers" src="https://img.shields.io/github/watchers/GreyTechno/sms_forwarder?label=Watchers&color=blue"></a>
-<a href="https://github.com/GreyTechno/SMS_Forwarder/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
-
-#
-<h2 align="left">🚀 ABOUT</h2>
-<p align="center">
+<a href="#"><img title="MR_GT" 
 sms_forwarder can be used in Termux to forward text messages from one device to another using Linux command-line utilities. The advantages of using sms_forwarder in Termux are that it allows users to automate the SMS forwarding process using Python scripts and provides a secure way to forward messages. It employs end-to-end encryption to ensure that the messages are not intercepted or read by unauthorized parties, offering advanced functionality and customization options that are not typically available on other platforms.
 </p>
 <p align="center">

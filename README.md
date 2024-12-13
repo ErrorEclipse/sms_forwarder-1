@@ -1,5 +1,3 @@
-<p align="center">
-<a href="#"><img title="MR_GT" 
 sms_forwarder can be used in Termux to forward text messages from one device to another using Linux command-line utilities. The advantages of using sms_forwarder in Termux are that it allows users to automate the SMS forwarding process using Python scripts and provides a secure way to forward messages. It employs end-to-end encryption to ensure that the messages are not intercepted or read by unauthorized parties, offering advanced functionality and customization options that are not typically available on other platforms.
 </p>
 <p align="center">
